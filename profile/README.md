@@ -49,10 +49,6 @@ Finalist, AI Wars: WEEX Alpha Awakens — $880K prize pool
 **[Flash Protocol](https://github.com/hoomanbuilds/flash-protocol):**
 Non-custodial cross-chain payment gateway. Merchants accept any token across 70+ networks with automatic USDC settlement via 6 liquidity providers.
 
-**[Agentis](https://github.com/HoomanBuilds/agentis):**
-Decentralized platform for creating, trading, and interacting with AI agents as NFTs on Casper Network. Agents level up, earn revenue and have their own wallets.
-Finalist, Casper Hackathon 2026 — $40K prize pool
-
 **[OpenScene](https://github.com/HoomanBuilds/OpenScenes):**
 AI-powered video presentation engine. Multi-agent pipeline with Gemini, tiered natural language editing, distributed render engine with Remotion.
 
