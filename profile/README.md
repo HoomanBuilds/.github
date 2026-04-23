@@ -78,4 +78,4 @@ Protocol for autonomous AI agents with cryptographic signing authority. Lit Prot
 
 ### Contact
 
-[hoomanhacks.com](https://hoomanhacks.com)
+[Website](https://hoomanhacks.vercel.app/)
