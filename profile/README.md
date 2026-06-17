@@ -75,6 +75,7 @@ Protocol for autonomous AI agents with cryptographic signing authority. Lit Prot
 |-|------|------|-------|
 | <img src="https://github.com/Shreyassp002.png" width="40"> | Shreyas Patil | Full-Stack Blockchain Developer | [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Shreyassp002/) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-patil-sp002/) [![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x)](https://x.com/Darkreyyy) |
 | <img src="https://github.com/vinitngr.png" width="40"> | Vinit Nagar | GenAI Developer | [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/vinitngr) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinit-nagar-264434293/) [![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x)](https://x.com/vinitngr_) |
+| <img src="https://github.com/hoomandgtl.png" width="40"> | Piyush Choudhary | CTO | [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/hoomandgtl) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vinit-nagar-264434293/](https://www.linkedin.com/in/piyush-choudhary-494b0a413/)) [![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x)](https://x.com/0xboldpanther_) |
 
 ### Contact
 
